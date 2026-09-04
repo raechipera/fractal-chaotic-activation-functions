@@ -10,7 +10,7 @@ Traditional reservoir computing relies on smooth, differentiable activation func
 
 Key findings include:
 
-- The Cantor function maintains the Echo State Property (ESP) at spectral radii up to ρ = 100, far beyond the classical stability bound of ρ < 1
+- The Cantor function maintains the Echo State Property (ESP) at spectral radii up to ρ = 10, far beyond the classical stability bound of ρ < 1
 - A novel theoretical framework — the **Degenerate Echo State Property (d-ESP)** — is introduced to characterize this behavior
 
 ## Contents
