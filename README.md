@@ -19,7 +19,7 @@ Key findings include:
 |---|---|
 | `activations.py` | Fractal, chaotic, and standard activation functions used in the study |
 | `ReservoirComputer.py` | Leaky echo state network (ESN) implementation |
-| `d_esp_verify.py` | Statistical verification of the Echo State Property (ESP) |
+| `d_esp_verify.py` | Statistical verification of the Echo State Property (ESP); also produces Figure 12 (ESP scaling analysis across reservoir sizes) via `create_scaling_plot()` |
 | `parameter_sweep.py` | Parameter sweeps over reservoir/activation settings, including extended and multi-seed robustness runs |
 | `mandelbrot_attractor_analysis.py` | Attractor analysis (Figure 11) |
 | `eigenvalue_verification.py` | Spectral radius / eigenvalue confirmation (Figure 9) |
