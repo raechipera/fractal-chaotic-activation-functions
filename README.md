@@ -62,7 +62,7 @@ Rae Chipera
 National University, School of Technology and Engineering
 Jaxorik AI Research Group
 GitHub: [@raechipera](https://github.com/raechipera)
-Website: [jaxorik.com](https://www.jaxorik.com/)
+Website: [RaeChipera.com](https://www.raechipera.com/)
 
 ## License
 
