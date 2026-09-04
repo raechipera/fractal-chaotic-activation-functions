@@ -4,6 +4,15 @@ Companion code for the paper **"Fractal and Chaotic Activation Functions in Echo
 
 This repo contains the reservoir computing implementation, activation functions, and analysis scripts used to produce the paper's results and figures.
 
+## Overview
+
+Traditional reservoir computing relies on smooth, differentiable activation functions (tanh, ReLU). This research asks: what happens when you replace them with fractal and chaotic functions that are continuous but nowhere differentiable?
+
+Key findings include:
+
+- The Cantor function maintains the Echo State Property (ESP) at spectral radii up to ρ = 100, far beyond the classical stability bound of ρ < 1
+- A novel theoretical framework — the **Degenerate Echo State Property (d-ESP)** — is introduced to characterize this behavior
+
 ## Contents
 
 | File | Description |
@@ -46,6 +55,14 @@ If you use this code, please cite the preprint:
 ```
 
 *(Citation will be updated once the journal version is published.)*
+
+## Contact
+
+Rae Chipera
+National University, School of Technology and Engineering
+Jaxorik AI Research Group
+GitHub: [@raechipera](https://github.com/raechipera)
+Website: [jaxorik.com](https://www.jaxorik.com/)
 
 ## License
 
